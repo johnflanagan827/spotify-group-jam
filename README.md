@@ -1,4 +1,4 @@
-# spotify-group-jam
+# Spotify Group Jam
 
 Introducing Spotify Group Jam, an interactive platform built with Django and React that enables collaborative music listening. Users can join group listening sessions, with the host having full control over the music.
 
